@@ -1,0 +1,8 @@
+C:\Users\pascal\source\repos\PrintExport\ExportService\bin\Debug\netstandard1.4\ExportService.deps.json
+C:\Users\pascal\source\repos\PrintExport\ExportService\bin\Debug\netstandard1.4\ExportService.dll
+C:\Users\pascal\source\repos\PrintExport\ExportService\bin\Debug\netstandard1.4\ExportService.pdb
+C:\Users\pascal\source\repos\PrintExport\ExportService\obj\Debug\netstandard1.4\ExportService.csprojResolveAssemblyReference.cache
+C:\Users\pascal\source\repos\PrintExport\ExportService\obj\Debug\netstandard1.4\ExportService.csproj.CoreCompileInputs.cache
+C:\Users\pascal\source\repos\PrintExport\ExportService\obj\Debug\netstandard1.4\ExportService.AssemblyInfo.cs
+C:\Users\pascal\source\repos\PrintExport\ExportService\obj\Debug\netstandard1.4\ExportService.dll
+C:\Users\pascal\source\repos\PrintExport\ExportService\obj\Debug\netstandard1.4\ExportService.pdb

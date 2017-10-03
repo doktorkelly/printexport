@@ -1,0 +1,12 @@
+C:\Users\pascal\source\repos\PrintExport\PrintExport\bin\Debug\netcoreapp1.1\PrintExport.deps.json
+C:\Users\pascal\source\repos\PrintExport\PrintExport\bin\Debug\netcoreapp1.1\PrintExport.runtimeconfig.json
+C:\Users\pascal\source\repos\PrintExport\PrintExport\bin\Debug\netcoreapp1.1\PrintExport.runtimeconfig.dev.json
+C:\Users\pascal\source\repos\PrintExport\PrintExport\bin\Debug\netcoreapp1.1\PrintExport.dll
+C:\Users\pascal\source\repos\PrintExport\PrintExport\bin\Debug\netcoreapp1.1\PrintExport.pdb
+C:\Users\pascal\source\repos\PrintExport\PrintExport\obj\Debug\netcoreapp1.1\PrintExport.csprojResolveAssemblyReference.cache
+C:\Users\pascal\source\repos\PrintExport\PrintExport\obj\Debug\netcoreapp1.1\PrintExport.csproj.CoreCompileInputs.cache
+C:\Users\pascal\source\repos\PrintExport\PrintExport\obj\Debug\netcoreapp1.1\PrintExport.AssemblyInfo.cs
+C:\Users\pascal\source\repos\PrintExport\PrintExport\obj\Debug\netcoreapp1.1\PrintExport.dll
+C:\Users\pascal\source\repos\PrintExport\PrintExport\obj\Debug\netcoreapp1.1\PrintExport.pdb
+C:\Users\pascal\source\repos\PrintExport\PrintExport\bin\Debug\netcoreapp1.1\ExportService.dll
+C:\Users\pascal\source\repos\PrintExport\PrintExport\bin\Debug\netcoreapp1.1\ExportService.pdb
